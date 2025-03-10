@@ -1,0 +1,199 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "At Royal Dhabha, we pride ourselves on delivering fresh, high-quality ingredients in every dish. Every bite reflects our commitment to excellence and tradition.." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Experience flavors that delight your senses! Our time-honored recipes ensure each meal is a perfect balance of spices, textures, and taste." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Get your favorite dishes delivered straight to your door, hot and fresh! We ensure fast and efficient delivery so you can enjoy authentic flavors whenever you want.." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner12.png",
+                "title": "Idli",
+                "category": "Breakfast"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.png",
+                "title": "ALOO CHAAT",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast12.png",
+                "title": " Samosa",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.png",
+                "title": "Strawberry Pastry",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./lunch1.png",
+                "title": "PANEER BHURJI",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.png",
+                "title": "SPICY LENTIL SOUP (DAL SHORBA)",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner51.png",
+                "title": "Pasta",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "TANDOORI STUFFED MUSHROOMS",
+                "category": "Dinner"
+            },
+            {
+                "id": 9,
+                "image": "./dinner7.png",
+                "title": "Chole Rice",
+                "category": "Dinner"
+            },
+            {
+                "id": 10,
+                "image": "./dinner8.png",
+                "title": "Burger",
+                "category": "Dinner"
+            },
+            {
+                "id": 11,
+                "image": "./dinner9.png",
+                "title": "BIRYANI",
+                "category": "Dinner"
+            },
+            {
+                "id": 12,
+                "image": "./dinner10.png",
+                "title": "PANEER Tikka",
+                "category": "Dinner"
+            }
+          
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "Rajesh Singla",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "Mohan Kumar",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "Suraj Anand",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "Vaibahv Singla",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
